@@ -1,0 +1,11 @@
+#email-lbl {
+  color: blue;
+  text-align: left;
+}
+
+form {
+  background: lightcyan;
+  text-align: left;
+  width: 20%;
+  padding: 2%;
+}
